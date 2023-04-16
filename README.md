@@ -1,4 +1,4 @@
-# node-weather-website
+# weather-application
 
 This is a simple weather application. It uses data from mapbox.com and weatherstack.com. When you enter a location, the current weather condition (temperature and relative humidity) of that location is displayed.
 
